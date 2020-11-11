@@ -1,0 +1,17 @@
+C:\Users\Capplequoppe\source\repos\JWLMergeCore\JWLMergeCore.BackupFileServices\bin\Debug\netcoreapp3.1\JWLMergeCore.BackupFileServices.deps.json
+C:\Users\Capplequoppe\source\repos\JWLMergeCore\JWLMergeCore.BackupFileServices\bin\Debug\netcoreapp3.1\JWLMergeCore.BackupFileServices.dll
+C:\Users\Capplequoppe\source\repos\JWLMergeCore\JWLMergeCore.BackupFileServices\bin\Debug\netcoreapp3.1\JWLMergeCore.BackupFileServices.pdb
+C:\Users\Capplequoppe\source\repos\JWLMergeCore\JWLMergeCore.BackupFileServices\obj\Debug\netcoreapp3.1\JWLMergeCore.BackupFileServices.AssemblyInfoInputs.cache
+C:\Users\Capplequoppe\source\repos\JWLMergeCore\JWLMergeCore.BackupFileServices\obj\Debug\netcoreapp3.1\JWLMergeCore.BackupFileServices.AssemblyInfo.cs
+C:\Users\Capplequoppe\source\repos\JWLMergeCore\JWLMergeCore.BackupFileServices\obj\Debug\netcoreapp3.1\JWLMergeCore.BackupFileServices.csproj.CoreCompileInputs.cache
+C:\Users\Capplequoppe\source\repos\JWLMergeCore\JWLMergeCore.BackupFileServices\obj\Debug\netcoreapp3.1\JWLMergeCore.BackupFileServices.dll
+C:\Users\Capplequoppe\source\repos\JWLMergeCore\JWLMergeCore.BackupFileServices\obj\Debug\netcoreapp3.1\JWLMergeCore.BackupFileServices.pdb
+C:\Users\Capplequoppe\source\repos\JWLMergeCore - done\JWLMergeCore.BackupFileServices\bin\Debug\netcoreapp3.1\JWLMergeCore.BackupFileServices.deps.json
+C:\Users\Capplequoppe\source\repos\JWLMergeCore - done\JWLMergeCore.BackupFileServices\bin\Debug\netcoreapp3.1\JWLMergeCore.BackupFileServices.dll
+C:\Users\Capplequoppe\source\repos\JWLMergeCore - done\JWLMergeCore.BackupFileServices\bin\Debug\netcoreapp3.1\JWLMergeCore.BackupFileServices.pdb
+C:\Users\Capplequoppe\source\repos\JWLMergeCore - done\JWLMergeCore.BackupFileServices\obj\Debug\netcoreapp3.1\JWLMergeCore.BackupFileServices.csprojAssemblyReference.cache
+C:\Users\Capplequoppe\source\repos\JWLMergeCore - done\JWLMergeCore.BackupFileServices\obj\Debug\netcoreapp3.1\JWLMergeCore.BackupFileServices.AssemblyInfoInputs.cache
+C:\Users\Capplequoppe\source\repos\JWLMergeCore - done\JWLMergeCore.BackupFileServices\obj\Debug\netcoreapp3.1\JWLMergeCore.BackupFileServices.AssemblyInfo.cs
+C:\Users\Capplequoppe\source\repos\JWLMergeCore - done\JWLMergeCore.BackupFileServices\obj\Debug\netcoreapp3.1\JWLMergeCore.BackupFileServices.csproj.CoreCompileInputs.cache
+C:\Users\Capplequoppe\source\repos\JWLMergeCore - done\JWLMergeCore.BackupFileServices\obj\Debug\netcoreapp3.1\JWLMergeCore.BackupFileServices.dll
+C:\Users\Capplequoppe\source\repos\JWLMergeCore - done\JWLMergeCore.BackupFileServices\obj\Debug\netcoreapp3.1\JWLMergeCore.BackupFileServices.pdb
