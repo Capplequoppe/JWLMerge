@@ -1,30 +1,14 @@
-# JWLMerge <img src="https://ci.appveyor.com/api/projects/status/2nl90i7apndaxcac?svg=true">
+# JWLMerge
 
 ### Introduction
 
 JWLMerge is a utility to merge 2 or more .jwlibrary backup files. These backup files are created using the JW Library® backup command, and contain your personal notes, highlighting, etc.
 
-At time of writing, JW Library has _backup_ and _restore_ commands, but no _merge_ command. This means you can add personal annotations in JW Library on several devices and transfer these between devices, but cannot combine them into a single set. JWLMerge is a Windows application that allows you to merge 2 or more .jwlibrary files into a single backup file that can then be restored onto any device.
+At time of writing, JW Library has _backup_ and _restore_ commands, but no _merge_ command. This means you can add personal annotations in JW Library on several devices and transfer these between devices, but cannot combine them into a single set. JWLMerge is a cross platform application that allows you to merge 2 or more .jwlibrary files into a single backup file that can then be restored onto any device.
 
-![Main Window](jwlmerge.png)
 
 ### Usage
 
-Download the JWLMergeSetup.exe file from the latest release and run it.
-
-https://github.com/AntonyCorbett/JWLMerge/releases/latest
-
-Please see the wiki for further information.
-
-#### Wine
-
-If you are interested in running JWLMerge on Wine, please see this fork:
-
-https://github.com/SuperJC710e/JWLMerge
-
-And the notes here: 
-
-https://github.com/SuperJC710e/JWLMerge/wiki/Running-Under-Wine
 
 ### Important Notes
 
