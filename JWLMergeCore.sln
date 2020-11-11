@@ -7,7 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWLMergeCore.CLI", "JWLMerg
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWLMergeCore.BackupFileServices", "JWLMergeCore.BackupFileServices\JWLMergeCore.BackupFileServices.csproj", "{8C7128CF-AA5A-4FDB-9948-1397448C9CCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWLMergeCore.AutoMerger", "JWLMergeCore.AutoMerger\JWLMergeCore.AutoMerger.csproj", "{4708F2D2-7442-4394-B723-A0D4460AA29E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWLMergeCore.AutoMerger", "JWLMergeCore.AutoMerger\JWLMergeCore.AutoMerger.csproj", "{4708F2D2-7442-4394-B723-A0D4460AA29E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C9485123-9ADB-47A2-AA74-7A3CCF3AD905}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
